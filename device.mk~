@@ -148,7 +148,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.audio.monitorRotation=true
-    ro.product.manufacter=motorola
+
 # Audio effects
 PRODUCT_PACKAGES += \
     libqcomvisualizer \
